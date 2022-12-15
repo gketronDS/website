@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.1dca0272.css",
-    "main.js": "/static/js/main.a456f9e8.js",
-    "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
-    "static/media/Kegg.png": "/static/media/Kegg.876229c179e31a9a3a6e.png",
-    "static/media/dogImage.png": "/static/media/dogImage.35d4dd6a41ec7ed1a7ca.png",
-    "static/media/data_at_uci_logo_transparent.png": "/static/media/data_at_uci_logo_transparent.2ca34a182e38b2f959a8.png",
-    "static/media/mouseneuron.jpeg": "/static/media/mouseneuron.a59fbea7219726f2103a.jpeg",
-    "static/media/RNAseq.png": "/static/media/RNAseq.21e9d908dd18ed6d70f6.png",
-    "index.html": "/index.html",
-    "main.1dca0272.css.map": "/static/css/main.1dca0272.css.map",
-    "main.a456f9e8.js.map": "/static/js/main.a456f9e8.js.map",
-    "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
+    "main.css": "/website/static/css/main.1dca0272.css",
+    "main.js": "/website/static/js/main.0aa15dc1.js",
+    "static/js/787.71e672d5.chunk.js": "/website/static/js/787.71e672d5.chunk.js",
+    "static/media/Kegg.png": "/website/static/media/Kegg.876229c179e31a9a3a6e.png",
+    "static/media/dogImage.png": "/website/static/media/dogImage.35d4dd6a41ec7ed1a7ca.png",
+    "static/media/data_at_uci_logo_transparent.png": "/website/static/media/data_at_uci_logo_transparent.2ca34a182e38b2f959a8.png",
+    "static/media/mouseneuron.jpeg": "/website/static/media/mouseneuron.a59fbea7219726f2103a.jpeg",
+    "static/media/RNAseq.png": "/website/static/media/RNAseq.21e9d908dd18ed6d70f6.png",
+    "index.html": "/website/index.html",
+    "main.1dca0272.css.map": "/website/static/css/main.1dca0272.css.map",
+    "main.0aa15dc1.js.map": "/website/static/js/main.0aa15dc1.js.map",
+    "787.71e672d5.chunk.js.map": "/website/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1dca0272.css",
-    "static/js/main.a456f9e8.js"
+    "static/js/main.0aa15dc1.js"
   ]
 }
