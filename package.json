@@ -1,7 +1,7 @@
 {
   "name": "website",
   "version": "0.1.0",
-  "homepage": "https://gketron.io",
+  "homepage": "https://gketronds.github.io/website",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
