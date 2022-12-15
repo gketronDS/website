@@ -15,13 +15,13 @@ function Navbar() {
   return (
     <div className="navbar" id={expandNavbar ? "open" : "close"}>
         <div className="toggleButton">
-            <button 
+            <Button 
             onClick={() => {
                 setExpandNavbar((prev) => !prev)
                 }}
             >
                 <RecorderIcon /> 
-            </button>
+            </Button>
         </div>
         <div className="links">
             <Link to="/"> Home </Link>
